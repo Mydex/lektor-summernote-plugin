@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: lektor-summernote
+Version: 0.0.0
+Summary: Plugin integrating Summernote into Lektor admin editor
+Home-page: UNKNOWN
+Author: Monette Gordon
+Author-email: monette@mydex.org
+Maintainer: Monette Gordon
+Maintainer-email: monette@mydex.org
+License: MIT
+Description: UNKNOWN
+Keywords: Lektor admin plugin Summernote wysiwyg editor
+Platform: UNKNOWN
+Classifier: Framework :: Lektor
+Classifier: Environment :: Plugins
+Description-Content-Type: text/html

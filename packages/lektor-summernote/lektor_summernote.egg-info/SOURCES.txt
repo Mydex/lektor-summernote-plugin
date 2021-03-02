@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+lektor_summernote.py
+setup.py
+lektor_summernote.egg-info/PKG-INFO
+lektor_summernote.egg-info/SOURCES.txt
+lektor_summernote.egg-info/dependency_links.txt
+lektor_summernote.egg-info/entry_points.txt
+lektor_summernote.egg-info/top_level.txt

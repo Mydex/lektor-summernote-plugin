@@ -1,0 +1,3 @@
+[lektor.plugins]
+summernote = lektor_summernote:SummernotePlugin
+
