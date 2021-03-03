@@ -1,5 +1,0 @@
-[project]
-name = Summernote
-
-[packages]
-lektor-summernote
