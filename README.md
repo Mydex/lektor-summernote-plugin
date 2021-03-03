@@ -1,15 +1,12 @@
 # Lektor basic Summernote plugin
 
-This is a Lektor plugin which utilises summernote as the editor
+This is a [Lektor](https://www.getlektor.com/) plugin which utilises [Summernote](https://summernote.org/) as the editor/WYSIWYG.
 
-https://www.getlektor.com/
-https://summernote.org/
-
-This also includes a script which allows the content to refresh and to save.
+This plugin also includes a script which allows the content to refresh and to save.
 
 ## Getting started
 
-Basic instructions to install lektor are [here](https://www.getlektor.com/docs/installation/)
+Basic instructions to install lektor can be found [here](https://www.getlektor.com/docs/installation/)
 
 ## Adding the plugin 
 
