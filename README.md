@@ -10,7 +10,11 @@ Basic instructions to install lektor can be found [here](https://www.getlektor.c
 
 ## Adding the plugin 
 
-Instructions for installing plugins can be found [here](https://www.getlektor.com/docs/plugins/)
+The plugin can be added as a Package by following the instructions [here](https://www.getlektor.com/docs/plugins/)
+
+Alternatively it can ge added as a ```git submodule``` by creating a packages folder within your project and then using:
+
+```$ git submodule add https://github.com/Monette5/lektor-summernote-plugin```
 ### Useful commands
 
 `lektor server`
