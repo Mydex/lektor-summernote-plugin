@@ -8,7 +8,7 @@ setuptools.setup(
 
     use_scm_version=True,
 
-    author='Monette Gordon',
+    author='Monette Gordon, Miguel Jacq',
     author_email='monette@mydex.org',
     maintainer='Monette Gordon',
     maintainer_email='monette@mydex.org',

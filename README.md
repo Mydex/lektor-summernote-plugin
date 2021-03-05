@@ -34,6 +34,10 @@ https://www.getlektor.com/docs/
 
 There is API documentation here: https://www.getlektor.com/docs/api
 
+### Additional feature
+
+There is the addition of a script to reload the page when navigating between pages or when using the browser navigation.
+This is to resolve an issue where the page content is not refreshed as it should be.
 
 ### Known issues
 
