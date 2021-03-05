@@ -14,7 +14,8 @@ The plugin can be added as a Package by following the instructions [here](https:
 
 Alternatively it can ge added as a ```git submodule``` by creating a packages folder within your project and then using:
 
-```$ git submodule add https://github.com/Monette5/lektor-summernote-plugin```
+```$ git submodule add https://github.com/Monette5/lektor-summernote-plugin packages/lektor-summernote```
+
 ### Useful commands
 
 `lektor server`
@@ -34,4 +35,9 @@ https://www.getlektor.com/docs/
 There is API documentation here: https://www.getlektor.com/docs/api
 
 
+### Known issues
 
+When browsing between pages in the admin interface, a very brief popup error message appears via React as the browser
+navigates away. 
+
+It is harmless but we haven't found a way to hide it without modifying core parts of Lektor to squelch the message.
